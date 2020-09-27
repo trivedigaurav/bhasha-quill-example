@@ -1,5 +1,5 @@
 # bhasha-quill-example
-An example project for Bhasha QuillJS plugin
+An example project for Bhasha QuillJS [plugin](https://github.com/trivedigaurav/bhasha-quill)
 
 ## Getting started
 ### Clone this repository
