@@ -33,6 +33,6 @@ body {
   z-index: 5;
   background-color: white;
   height: 39px;
-  overflow: hidden;
+  /* overflow: hidden; */
   box-shadow: 0px 4px 4px -3px rgba(209,179,209,1);
 }
