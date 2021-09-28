@@ -8,8 +8,8 @@
   "license": "MIT",
   "author": "Gaurav Trivedi",
   "scripts": {
-    "build": "parcel build index.html",
-    "dev": "parcel index.html --open",
+    "build": "parcel build index.html --public-url '.'",
+    "dev": "parcel index.html --open --public-url '.'",
     "start": "npm run build && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
